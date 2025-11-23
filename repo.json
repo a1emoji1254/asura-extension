@@ -1,0 +1,15 @@
+{
+  "name": "Asura Scans Repo",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "sourceId": "asura_scans",
+      "name": "Asura Scans",
+      "author": "You",
+      "version": "1.0.0",
+      "filename": "AsuraSource.ts",
+      "contentRating": "EVERYONE",
+      "sourceLanguage": "English"
+    }
+  ]
+}
