@@ -1,0 +1,18 @@
+{
+  "sourceId": "asura_scans",
+  "name": "Asura Scans",
+  "author": "You",
+  "version": "1.0.0",
+  "contentRating": "EVERYONE",
+  "sourceLanguage": "English",
+  "mangaBaseURL": "https://www.asurascans.com",
+  "endpoints": {
+    "popular": "/latest",
+    "search": "/search?q={query}"
+  },
+  "selectors": {
+    "manga": ".bsx > a",
+    "chapter": ".listing-chapters_wrap li a",
+    "pageImage": ".reading-content img"
+  }
+}
