@@ -1,0 +1,9 @@
+{
+  "id": "asura.scans",
+  "version": "1.0.0",
+  "name": "Asura Scans",
+  "icon": "icon.png",
+  "author": "You",
+  "contentRating": "EVERYONE",
+  "websiteBaseURL": "https://www.asurascans.com"
+}
